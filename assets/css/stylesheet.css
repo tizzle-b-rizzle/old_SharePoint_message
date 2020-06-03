@@ -1,0 +1,14 @@
+#main {
+  width: 100vw;
+  height: 35vh;
+  background-color: #fc4e03;
+}
+
+#main h1,
+p {
+  text-align: center;
+}
+
+a {
+  margin-left: 25%;
+}
